@@ -26,6 +26,6 @@ background-color: blue;
 .holder{
 	display: flex;
 	justify-content: space-evenly;
-	text-wrap: wrap;
+	flex-wrap:wrap;
 }
 	
