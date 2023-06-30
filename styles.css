@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+.box1{
+background-color: green;
+	height:150px;
+	width:150px;
+	font-size:80px;
+}
+
+.box2{
+background-color: red;
+	height:150px;
+	width:150px;
+	font-size:80px;
+}
+
+.box3{
+background-color: blue;
+	height:150px;
+	width:150px;
+	font-size:80px;
+}
+
+.holder{
+	display: flex;
+	justify-content: space-evenly;
+	text-wrap: wrap;
+}
+	
